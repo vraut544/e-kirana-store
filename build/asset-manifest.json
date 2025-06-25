@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4efb37a3.css",
+    "main.js": "/static/js/main.5d416591.js",
+    "static/js/206.f8819006.chunk.js": "/static/js/206.f8819006.chunk.js",
+    "static/media/logo.webp": "/static/media/logo.72808b354bf11e435143.webp",
+    "static/media/poupafarmalogo.png": "/static/media/poupafarmalogo.4b239e9fc1d735fdf769.png",
+    "static/media/logo.png": "/static/media/logo.0c39487f5e99dd4a8533.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.4efb37a3.css",
+    "static/js/main.5d416591.js"
+  ]
+}
